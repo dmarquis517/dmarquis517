@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**dmarquis517/dmarquis517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Hartford, CT.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Crafted last [Woof Gang CT](https://woofgangct.com) website;
+- 🇵🇹 Exploring GitHub Actions + AWS
+- 🍑 Building websites for small local businesses!
+
+##### BIO
+
+- 🏢 I'm currently working at **Travelers**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.md`
+- 🌱 Learning all about **Tailwind CSS**
+- 💬 Ping me about **JavaScript**, **CSS**, **serverless**, **development**, **AWS**
+- 📫 Reach me: [danmarquis.com](https://danmarquis.com)
+- ⚡️ Fun fact: I love running, especially longer distances!
